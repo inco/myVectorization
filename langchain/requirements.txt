@@ -1,0 +1,11 @@
+# requirements for vectorizer service (local copy)
+fastapi>=0.115.11
+uvicorn>=0.31.1
+python-dotenv>=1.0.0
+langchain>=0.3.7
+qdrant-client>=1.11.0
+sentence-transformers>=2.2.2
+transformers>=4.30.0
+PyPDF2>=3.0.1
+requests>=2.32.3
+
