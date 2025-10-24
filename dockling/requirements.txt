@@ -1,0 +1,43 @@
+# Core Docling dependencies
+docling>=2.0.0
+docling-core>=2.0.0
+langchain-docling>=1.0.0
+
+# Additional document format support
+ebooklib>=0.18
+lxml>=4.9.0
+beautifulsoup4>=4.12.0
+
+# Vector stores
+pymilvus>=2.3.0
+qdrant-client>=1.7.0
+chromadb>=0.4.0
+
+# Embeddings and ML
+sentence-transformers>=2.2.0
+transformers>=4.30.0
+torch>=2.0.0
+ollama>=0.1.0
+requests>=2.32.0
+
+# RAG frameworks
+langchain>=0.1.0
+langchain-community>=0.0.20
+llama-index>=0.9.0
+langchain-core>=0.1.0
+
+# Utilities
+rich>=13.0.0
+click>=8.0.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+tqdm>=4.65.0
+
+# Optional: OpenAI integration
+openai>=1.0.0
+
+# Development
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
+
